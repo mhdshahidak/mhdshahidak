@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdshahidak&label=Profile%20views&color=0e75b6&style=flat" alt="mhdshahidak" /> </p>
 
-- 🔭 I’m currently working on [Eriga](http://eriga.in/)
+- 🔭 I’m currently working on [ZaZu](http://zazuindia.com/)
 
 - 🌱 I’m currently learning **Fast Api**
 
